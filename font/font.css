@@ -1,0 +1,104 @@
+/* nanum-gothic-regular - korean_latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 400;
+    src: url('nanum-gothic-v21-korean_latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* nanum-gothic-700 - korean_latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 700;
+    src: url('nanum-gothic-v21-korean_latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* nanum-gothic-800 - korean_latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 800;
+    src: url('nanum-gothic-v21-korean_latin-800.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* Roboto (영문/숫자) */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-style: normal;
+    src: local('※'),
+    url('Roboto-Thin.eot'),
+    url('Roboto-Thin.eot?#iefix') format('embedded-opentype'),
+    url('Roboto-Thin.woff2') format('woff2'),
+    url('Roboto-Thin.woff') format('woff'),
+    url('Roboto-Thin.ttf') format('truetype'),
+    url('Roboto-Thin.svg#Roboto') format('svg');
+    unicode-range: U+0041-005A, U+0061-007A;
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-style: normal;
+    src: local('※'),
+        url('Roboto-Light.eot'),
+        url('Roboto-Light.eot?#iefix') format('embedded-opentype'),
+        url('Roboto-Light.woff2') format('woff2'),
+        url('Roboto-Light.woff') format('woff'),
+        url('Roboto-Light.ttf') format('truetype'),
+        url('Roboto-Light.svg#Roboto') format('svg');
+    unicode-range: U+0041-005A, U+0061-007A;
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    src: local('※'),
+        url('Roboto-Regular.eot'),
+        url('Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Roboto-Regular.woff2') format('woff2'),
+        url('Roboto-Regular.woff') format('woff'),
+        url('Roboto-Regular.ttf') format('truetype'),
+        url('Roboto-Regular.svg#Roboto') format('svg');
+    unicode-range: U+0041-005A, U+0061-007A;
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: normal;
+    src: local('※'),
+        url('Roboto-Medium.eot'),
+        url('Roboto-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Roboto-Medium.woff2') format('woff2'),
+        url('Roboto-Medium.woff') format('woff'),
+        url('Roboto-Medium.ttf') format('truetype'),
+        url('Roboto-Medium.svg#Roboto') format('svg');
+    unicode-range: U+0041-005A, U+0061-007A;
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-style: normal;
+    src: local('※'),
+        url('Roboto-Bold.eot'),
+        url('Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Roboto-Bold.woff2') format('woff2'),
+        url('Roboto-Bold.woff') format('woff'),
+        url('Roboto-Bold.ttf') format('truetype'),
+        url('Roboto-Bold.svg#Roboto') format('svg');
+    unicode-range: U+0041-005A, U+0061-007A;
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-style: normal;
+    src: local('※'),
+        url('Roboto-Black.eot'),
+        url('Roboto-Black.eot?#iefix') format('embedded-opentype'),
+        url('Roboto-Black.woff2') format('woff2'),
+        url('Roboto-Black.woff') format('woff'),
+        url('Roboto-Black.ttf') format('truetype'),
+        url('Roboto-Black.svg#Roboto') format('svg');
+    unicode-range: U+0041-005A, U+0061-007A;
+}
